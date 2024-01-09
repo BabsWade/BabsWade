@@ -1,10 +1,7 @@
 ### Salut, dalal jamm !👋
 
-### 🧑🏾 A propos de moi :
-👨🏾‍💻 Je suis engagé à apporter des solutions numériques innovantes
-
-### 🌐 Réseaux sociaux :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babacar-wade) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/babacarwade25) 
+### 👨🏾‍💻 A propos de moi :
+Je suis engagé à apporter des solutions numériques innovantes
 
 ### 💻 Technologies que j'utilise :
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white). 
@@ -33,8 +30,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 📊 Stats GitHub :
-![](https://github-readme-stats.vercel.app/api?username=BabsWade&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=BabsWade&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=BabsWade&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=BabsWade&theme=default&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BabsWade&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
