@@ -1,11 +1,11 @@
 ### Salut, dalal jamm !👋
 
 ### A propos de moi : 👨🏾‍💻
-Je suis engagé à apporter des solutions numériques innovantes
-Passionné d’apprendre et découvrir de nouvelles technologies
-Organisé et méticuleux, je me sens bien quand tout est planifié tout en sachant m’adapter facilement
-J’apprécie le travail et dispose la capacité d’être autonome
-Vigoureux et calme, même sous la pression, j’assume rigoureusement mes responsabilités
+Je suis engagé à apporter des solutions numériques innovantes  
+Passionné d’apprendre et découvrir de nouvelles technologies  
+Organisé et méticuleux, je me sens bien quand tout est planifié tout en sachant m’adapter facilement  
+J’apprécie le travail et dispose la capacité d’être autonome  
+Vigoureux et calme, même sous la pression, j’assume rigoureusement mes responsabilités  
 
 ### Technologies que j'utilise : 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white). 
