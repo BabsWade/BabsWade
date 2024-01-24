@@ -1,7 +1,7 @@
 ### Salut, dalal jamm !👋
 
 ### A propos de moi : 👨🏾‍💻
-Je suis engagé à apporter des solutions numériques innovantes  
+Engagé à apporter des solutions numériques innovantes  
 Passionné d’apprendre et découvrir de nouvelles technologies  
 Organisé et méticuleux, je me sens bien quand tout est planifié tout en sachant m’adapter facilement  
 J’apprécie le travail et dispose la capacité d’être autonome  
